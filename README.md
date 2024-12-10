@@ -7,7 +7,7 @@ The contents in this repository are intended to quantify the leaf-area-index (LA
 3. Go through the images and manually crop them using the editing tool. Remove unnecessary objects in the background and make sure the cropped images are stored in a new folder called “LAI_Extracted_Crop” in JPEG format with its corresponding sample name (i.e. “CN_2WA_1”)
 
 *This should be the structure of the folders:
-- LAI_Analysis
+- LAI_Analysis (parent)
   - LAI_Extracted
      - Sample1
      - Sample2
